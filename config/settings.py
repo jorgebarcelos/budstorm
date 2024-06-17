@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'budstorm',
     'category',
     'accounts',
+    'store'
 ]
 
 MIDDLEWARE = [
